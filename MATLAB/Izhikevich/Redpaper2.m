@@ -1,6 +1,6 @@
 %Modelo de Izhikevich
 %Paper Simple Model of Spiking Neurons 2003
-%Ejemplo 2: Unasola neurona 
+%Ejemplo 2: Una sola neurona 
 clc;clear;
 Ne = 1;
 Ni = 0; 
