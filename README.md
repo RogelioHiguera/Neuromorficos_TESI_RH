@@ -1,2 +1,2 @@
 # Neuromorficos_TESI_RH
-Códigos de MATLAB, Python y VHDL, Verilog
+Códigos de MATLAB, Python, VHDL, Verilog, etc.
